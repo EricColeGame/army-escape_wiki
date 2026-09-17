@@ -14,7 +14,7 @@
   "home": {
     "meta": {
       "title": "Army Escape Wiki — Codes, Soldiers, Stages & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "description": "Complete Army Escape guide on Roblox with working codes, soldier stats, stages walkthrough, wins farming, and beginner tips."
     },
     "hero": {
       "eyebrow": "Army Battle Escape Simulator",
@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Army Escape Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn core mechanics, battle mobs with your squad, and understand how stage progression and wins work in Army Escape."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Leveling & Wins",
+          "description": "Maximize stage clear efficiency and earn wins rapidly to expand your max soldier equip capacity."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Soldiers & Unboxing",
+          "description": "Discover top soldier rarities, stats, and optimal unboxing strategies to assemble an unstoppable army."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "All Codes & Rewards",
+          "description": "Stay updated with all active Army Escape codes, free boost items, and instructions on how to redeem."
         }
       ]
     },
@@ -66,237 +66,305 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Active Codes",
+        "Soldier Tier List",
+        "Stage Walkthrough"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Army Escape Beginner Guide",
+          "description": "Master core squad mechanics, mob combat, and early stage wins progression.",
+          "href": "/guide/army-escape-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Army Escape Active Codes",
+          "description": "All working promo codes for free boosts, coins, and recruit bonuses.",
+          "href": "/codes/army-escape-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Tier List",
+          "title": "Soldier Tier List & Rankings",
+          "description": "Best soldiers ranked from S-Tier to C-Tier by DPS, HP, and squad utility.",
+          "href": "/tier-list/army-escape-soldier-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Stage Walkthrough & Bosses",
+          "description": "Detailed zone by zone escape route guides and boss fight strategies.",
+          "href": "/guide/army-escape-stage-walkthrough"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Strategy",
+          "title": "Fastest Wins Farming Guide",
+          "description": "Optimized grinding routes to earn maximum wins and level up equip limits.",
+          "href": "/guide/army-escape-tips-and-tricks"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Gamepasses & Upgrades",
+          "description": "Breakdown of gamepass bonuses, auto-battle value, and equip slot expansions.",
+          "href": "/guide/army-escape-gamepasses"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Army Escape?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Army Escape is an exciting military battle simulator on Roblox created by 50/50 Games. Build your personal squad, defeat aggressive enemy mobs, and push through challenging escape stages to earn coveted wins.",
+        "As you progress, level up your commander to equip more troops simultaneously, unbox powerful rare soldiers, and master tactical squad synergies to conquer every zone on Roblox."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "50/50 Games"
         },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Total Visits",
+          "value": "447K+"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Active Players",
+          "value": "780+"
+        },
+        {
+          "label": "Rating",
+          "value": "95.8%"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "value": "31.4K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Army Escape Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master Army Escape on Roblox with essential progression guides, active codes, soldier database, and stage walkthrough strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Army Escape Codes",
+          "description": "Latest active codes and verification status for Army Escape on Roblox to claim free in-game boosts and rewards.",
+          "href": "/codes/army-escape-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "ACTIVE",
+              "detail": "Check in-game redemption status regularly for newly dropped codes"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "REWARD",
+              "detail": "Free wins, recruit boosts, and exclusive starter gifts"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "HOW TO",
+              "detail": "Open settings or code menu in Army Escape to redeem valid promo codes"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Army Escape Beginner Guide",
+          "description": "Step-by-step beginner breakdown to master squad control, early mob combat, and initial stage clearing.",
+          "href": "/guide/army-escape-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Spawn initial starter units and learn basic squad command controls"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Engage early zone mobs to secure your first stage victory and wins"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Invest early wins into soldier unboxing crates for high-stat troops"
+            },
+            {
+              "label": "4",
+              "detail": "Upgrade your commander level to unlock additional soldier equip slots"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Army Escape Stage Walkthrough",
+          "description": "Complete zone progression guide covering enemy mob waves, choke points, and boss phase tactics.",
+          "href": "/guide/army-escape-stage-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Stage 1-5: Clear basic infantry checkpoints and build initial win reserves"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Stage 6-15: Deploy armored counter-units to handle heavy mob waves"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Stage 16+: Coordinate high-DPS ranged soldiers against elite commander mobs"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Escape Gate: Focus down the final barricade defense to clear the sector"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Army Escape Soldier Tier List",
+          "description": "Rankings of all recruitable soldiers based on DPS, health, mobility, and squad combat efficiency.",
+          "href": "/tier-list/army-escape-soldier-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Elite Commando · Spec-Ops Heavy — Top tier damage and crowd control"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Sniper Specialist · Combat Medic — Essential squad support and range"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Assault Rifleman · Grenadier — Solid mid-game frontline units"
+            },
+            {
+              "label": "C",
+              "detail": "Recruit Scout · Basic Infantry — Starter units for initial stages"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Army Escape Tips and Tricks",
+          "description": "Practical tactics to survive dangerous encounter zones and maximize wins per hour in Army Escape.",
+          "href": "/guide/army-escape-tips-and-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Kiting",
+              "detail": "Pull large mob packs into narrow paths to maximize squad splash damage"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Upgrades",
+              "detail": "Prioritize commander equip capacity before buying expensive single units"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Formations",
+              "detail": "Place high-health tanks at the front and fragile snipers at the rear"
+            },
+            {
+              "label": "Wins",
+              "detail": "Re-run quick early stages to rapidly accumulate wins for crate openings"
+            },
+            {
+              "label": "Synergy",
+              "detail": "Pair damage buffing support units with rapid-firing assault soldiers"
+            },
+            {
+              "label": "Cooldowns",
+              "detail": "Time active squad rally abilities right as elite enemy waves arrive"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Army Escape Obstacles & Combat Mechanics",
+          "description": "Overview of hazardous zone traps, enemy mob attack patterns, and counter strategies.",
+          "href": "/mechanics/army-escape-obstacles-and-combat",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Barricades",
+              "detail": "Reinforced defensive walls that require sustained unit focus fire"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Turrets",
+              "detail": "High-damage stationary emplacements requiring rapid flank maneuvers"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "SpikeTraps",
+              "detail": "Ground hazards that deal continuous damage to carelessly placed troops"
+            },
+            {
+              "label": "Minefields",
+              "detail": "Explosive zones requiring safe commander pathing and squad escort"
+            },
+            {
+              "label": "Swarmers",
+              "detail": "Fast melee enemy mobs requiring instant area-of-effect suppression"
+            },
+            {
+              "label": "BossGolems",
+              "detail": "Colossal checkpoint bosses with telegraphed slam attacks"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Army Escape Gamepasses & Perks",
+          "description": "Analysis of official gamepasses, VIP boosts, and speed upgrades available in Army Escape.",
+          "href": "/guide/army-escape-gamepasses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DoubleWins",
+              "detail": "Permanent 2x multiplier on all stage clear wins and progression"
+            },
+            {
+              "label": "AutoBattle",
+              "detail": "Hands-free automated unit deployment and stage progression loop"
+            },
+            {
+              "label": "ExtraSlots",
+              "detail": "Instantly unlock bonus squad equip slots for greater battle power"
+            },
+            {
+              "label": "FastHatch",
+              "detail": "Accelerated soldier unboxing animation for rapid squad recruitment"
+            },
+            {
+              "label": "VipTitle",
+              "detail": "Exclusive chat badge, daily coin bonus, and unique commander aura"
+            },
+            {
+              "label": "SpeedBoost",
+              "detail": "Increased commander movement velocity across all escape sectors"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Army Escape Updates & Patch Notes",
+          "description": "Stay informed on the latest balance changes, new soldier additions, and event stages in Army Escape.",
+          "href": "/updates/army-escape-updates",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "New Escape Sectors: Additional challenging military stages and mob variants"
+            },
+            {
+              "label": "2",
+              "detail": "Mythic Soldiers: Ultra-rare recruitable units with custom squad buffs"
+            },
+            {
+              "label": "3",
+              "detail": "Quality of Life: Streamlined soldier inventory and bulk crate unboxing"
+            },
+            {
+              "label": "4",
+              "detail": "Community Events: Limited-time weekend double wins and bonus drop rates"
             }
           ]
         }
@@ -304,27 +372,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Army Escape on Roblox.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Army Escape on Roblox?",
+          "answer": "Army Escape is a Roblox squad battle simulator developed by 50/50 Games. Players assemble soldiers, defeat enemy mobs, conquer escape stages, and earn wins to unbox more powerful troops."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I equip more soldiers in Army Escape?",
+          "answer": "In Army Escape, leveling up your commander and progressing through stages unlocks additional soldier equip capacity, allowing you to field larger squads."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where do I find active Army Escape codes?",
+          "answer": "All working Army Escape codes and redemption methods are tracked on our Codes guide. Redeem codes in the game menu whenever new developer milestones are reached."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the fastest way to get wins in Army Escape?",
+          "answer": "The fastest way to farm wins in Army Escape is by repeatedly clearing the highest stage your squad can defeat quickly without taking heavy soldier casualties."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do soldier rarities work in Army Escape?",
+          "answer": "Soldiers in Army Escape range from Common recruits to Mythic commandos. Higher rarity soldiers possess significantly superior damage, health, and squad buff abilities."
         }
       ]
     },
