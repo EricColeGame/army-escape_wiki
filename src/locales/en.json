@@ -8,6 +8,14 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "controls": "Controls",
+    "maps": "Maps",
+    "items": "Items",
+    "tips": "Tips",
+    "codes": "Codes",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -438,5 +446,37 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Army Escape Guides & Walkthroughs",
+    "overviewDescription": "Master every stage of Army Escape with step-by-step beginner guides, battle tactics, and escape routes."
+  },
+  "mechanics": {
+    "overviewTitle": "Army Escape Game Mechanics",
+    "overviewDescription": "Understand army formation, damage calculations, mob battles, and stage progression rules in Army Escape."
+  },
+  "progression": {
+    "overviewTitle": "Army Escape Progression & Upgrades",
+    "overviewDescription": "Learn how to level up fast, expand your squad size, farm wins efficiently, and unlock high-tier soldiers in Army Escape."
+  },
+  "controls": {
+    "overviewTitle": "Army Escape Controls & Movement",
+    "overviewDescription": "Complete control scheme and keybindings for PC, mobile, and console players in Army Escape."
+  },
+  "maps": {
+    "overviewTitle": "Army Escape Maps & Stages",
+    "overviewDescription": "Explore military base zones, prison sectors, and tactical escape maps in Army Escape."
+  },
+  "items": {
+    "overviewTitle": "Army Escape Items & Equipment",
+    "overviewDescription": "Browse helmets, backpacks, utility gear, and military items to boost your army stats in Army Escape."
+  },
+  "tips": {
+    "overviewTitle": "Army Escape Tips & Strategies",
+    "overviewDescription": "Pro tips, escape tricks, soldier build strategies, and wins farming methods for Army Escape."
+  },
+  "codes": {
+    "overviewTitle": "Army Escape Active Codes",
+    "overviewDescription": "All working and updated promo codes for free soldiers, extra wins, and bonuses in Army Escape."
   }
 }
