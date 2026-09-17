@@ -1,13 +1,21 @@
 {
-  "name": "VV: ULTIMATUM Wiki",
-  "short_name": "VV Ultimatum",
-  "description": "Fan-made VV: ULTIMATUM Roblox wiki with codes, bosses, builds, races and guides.",
+  "name": "Army Escape Wiki",
+  "short_name": "Army Escape",
+  "description": "Fan-made Army Escape Roblox wiki with codes, soldiers, stages, wins, and walkthrough guides.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d0d0d",
-  "theme_color": "#9f4623",
+  "theme_color": "#5c8a24",
   "icons": [
-    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
