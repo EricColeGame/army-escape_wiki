@@ -1,1 +1,482 @@
-{}
+{
+  "site": {
+    "name": "Army Escape Wiki",
+    "shortName": "Army Escape",
+    "tagline": "Guías completas, códigos, soldados y rutas de escape",
+    "description": "¡Tu guía definitiva de Army Escape en Roblox! Descubre códigos activos, estadísticas de soldados, recorridos de niveles, farmeo de victorias y consejos para principiantes.",
+    "legalNotice": "Wiki no oficial de fans. Creada por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guías",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "controls": "Controles",
+    "maps": "Mapas",
+    "items": "Objetos",
+    "tips": "Consejos",
+    "codes": "Códigos",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "No hay guías disponibles todavía. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Army Escape Wiki",
+    "about": "Army Escape Wiki es una plataforma independiente creada por fans que cubre rutas de progresión, soldados, etapas, farmeo de victorias y conocimientos esenciales tanto para principiantes como para veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Army Escape Wiki. No afiliado con 50/50 Games ni con Roblox.",
+    "description": "Lidera tu escuadrón, supera desafiantes etapas de escape, consigue victorias y recluta poderosos soldados en Army Escape en Roblox.",
+    "playGame": "Jugar a Army Escape en Roblox",
+    "officialDiscord": "Discord de la Comunidad",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Planificador de Soldados",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Guías de Facciones",
+    "bossGuides": "Guías de Jefes",
+    "buildGuide": "Guía de Builds",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos del Servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y Recorridos de Army Escape",
+    "overviewDescription": "Domina cada etapa de Army Escape con guías paso a paso para principiantes, tácticas de combate y rutas de escape."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Juego de Army Escape",
+    "overviewDescription": "Comprende la formación del ejército, el cálculo de daño, el combate contra enemigos y las reglas de progresión de niveles en Army Escape."
+  },
+  "progression": {
+    "overviewTitle": "Progresión y Mejoras en Army Escape",
+    "overviewDescription": "Aprende cómo subir de nivel rápidamente, aumentar el tamaño de tu escuadrón, farmear victorias eficientemente y desbloquear soldados de nivel alto en Army Escape."
+  },
+  "controls": {
+    "overviewTitle": "Controles y Movimiento en Army Escape",
+    "overviewDescription": "Esquema completo de controles y asignación de teclas para jugadores de PC, móvil y consola en Army Escape."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y Etapas de Army Escape",
+    "overviewDescription": "Explora zonas de bases militares, sectores de prisiones y mapas tácticos de escape en Army Escape."
+  },
+  "items": {
+    "overviewTitle": "Objetos y Equipamiento de Army Escape",
+    "overviewDescription": "Explora cascos, mochilas, equipo táctico y artículos militares para potenciar las estadísticas de tu ejército en Army Escape."
+  },
+  "tips": {
+    "overviewTitle": "Consejos y Estrategias de Army Escape",
+    "overviewDescription": "Consejos avanzados, trucos de escape, estrategias de formación de soldados y métodos de farmeo de victorias en Army Escape."
+  },
+  "codes": {
+    "overviewTitle": "Códigos Activos de Army Escape",
+    "overviewDescription": "Todos los códigos promocionales funcionales y actualizados para obtener soldados gratis, victorias adicionales y bonificaciones en Army Escape."
+  },
+  "home": {
+    "meta": {
+      "title": "Army Escape Wiki — Códigos, Soldados, Etapas y Guías",
+      "description": "Guía completa de Army Escape en Roblox con códigos funcionales, estadísticas de soldados, recorrido de etapas, farmeo de victorias y consejos para principiantes."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Batalla y Escape Militar",
+      "title": "Army Escape Wiki",
+      "description": "Construye tu ejército, combate enemigos, supera fases de escape, consigue victorias y desbloquea soldados más fuertes a medida que avanzas en Army Escape en Roblox.",
+      "stats": [
+        "447K Visitas Totales",
+        "783 Jugadores en Línea",
+        "95.8% Valoración",
+        "31.4K Favoritos"
+      ],
+      "primaryCta": "Guía para Principiantes",
+      "secondaryCta": "Lista de Soldados",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Demostración Oficial de Juego"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Empieza Aquí",
+      "title": "Tu Trayectoria en Army Escape",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Aprende las mecánicas básicas, combate enemigos con tu escuadrón y comprende cómo funcionan la progresión de niveles y las victorias en Army Escape."
+        },
+        {
+          "number": "2",
+          "title": "Subida Rápida de Nivel y Victorias",
+          "description": "Maximiza la eficiencia al completar fases y acumula victorias rápidamente para ampliar la capacidad máxima de equipamiento de soldados."
+        },
+        {
+          "number": "3",
+          "title": "Mejores Soldados y Apertura de Cajas",
+          "description": "Descubre las mejores rarezas de soldados, sus estadísticas y las estrategias óptimas de apertura para formar un ejército imparable."
+        },
+        {
+          "number": "4",
+          "title": "Todos los Códigos y Recompensas",
+          "description": "Mantente al día con todos los códigos activos de Army Escape, objetos potenciadores gratuitos e instrucciones sobre cómo canjearlos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Ahora",
+      "quickLinks": [
+        "Guía para Principiantes",
+        "Códigos Activos",
+        "Tier List de Soldados",
+        "Recorrido de Etapas"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para Principiantes de Army Escape",
+          "description": "Domina las mecánicas básicas del escuadrón, el combate contra enemigos y la progresión inicial de victorias.",
+          "href": "/guide/army-escape-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos de Army Escape",
+          "description": "Todos los códigos promocionales funcionales para potenciadores gratis, monedas y bonos de reclutamiento.",
+          "href": "/codes/army-escape-codes"
+        },
+        {
+          "badge": "Tier List",
+          "title": "Tier List y Clasificación de Soldados",
+          "description": "Los mejores soldados clasificados de Tier S a Tier C por DPS, vida y utilidad en escuadrón.",
+          "href": "/tier-list/army-escape-soldier-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Recorrido de Etapas y Jefes",
+          "description": "Guías detalladas de rutas de escape zona por zona y estrategias para vencer a los jefes.",
+          "href": "/guide/army-escape-stage-walkthrough"
+        },
+        {
+          "badge": "Estrategia",
+          "title": "Guía Rápida de Farmeo de Victorias",
+          "description": "Rutas de farmeo optimizadas para acumular el máximo de victorias y aumentar los límites de equipamiento.",
+          "href": "/guide/army-escape-tips-and-tricks"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Gamepasses y Mejoras",
+          "description": "Análisis de bonificaciones de pases de juego, valor del combate automático y ampliaciones de casillas.",
+          "href": "/guide/army-escape-gamepasses"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Army Escape?",
+      "paragraphs": [
+        "Army Escape es un emocionante simulador de batallas militares en Roblox creado por 50/50 Games. Construye tu propio escuadrón, derrota a oleadas enemigas agresivas y avanza a través de desafiantes etapas de escape para conseguir codiciadas victorias.",
+        "A medida que progresas, sube el nivel de tu comandante para equipar más tropas simultáneamente, abre cajas para conseguir soldados raros y domina las sinergias tácticas del escuadrón para conquistar todas las zonas en Roblox."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "50/50 Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Visitas Totales",
+          "value": "447K+"
+        },
+        {
+          "label": "Jugadores Activos",
+          "value": "780+"
+        },
+        {
+          "label": "Valoración",
+          "value": "95.8%"
+        },
+        {
+          "label": "Favoritos",
+          "value": "31.4K+"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Army Escape",
+      "description": "Navega por nuestras secciones especializadas para dominar cada elemento de Army Escape en Roblox.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Army Escape Codes",
+          "description": "Últimos códigos activos y estado de verificación en Army Escape en Roblox para reclamar mejoras y recompensas gratuitas.",
+          "href": "/codes/army-escape-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ACTIVE",
+              "detail": "Revisa regularmente el estado de canje en el juego para nuevos códigos lanzados"
+            },
+            {
+              "label": "REWARD",
+              "detail": "Victorias gratis, mejoras de reclutamiento y regalos iniciales exclusivos"
+            },
+            {
+              "label": "HOW TO",
+              "detail": "Abre el menú de ajustes o códigos en Army Escape para canjear códigos promocionales válidos"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Army Escape Beginner Guide",
+          "description": "Guía paso a paso para principiantes para dominar el control del escuadrón, el combate inicial y la superación de etapas.",
+          "href": "/guide/army-escape-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Genera unidades iniciales y aprende los controles básicos de mando de escuadrón"
+            },
+            {
+              "label": "2",
+              "detail": "Combate enemigos de las primeras zonas para asegurar tu primera victoria en la etapa"
+            },
+            {
+              "label": "3",
+              "detail": "Invierte tus primeras victorias en cajas de soldados para conseguir tropas de altas estadísticas"
+            },
+            {
+              "label": "4",
+              "detail": "Mejora el nivel de tu comandante para desbloquear casillas adicionales de soldados"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Army Escape Stage Walkthrough",
+          "description": "Guía completa de progresión por zonas que cubre oleadas enemigas, puntos de estrangulamiento y tácticas de jefes.",
+          "href": "/guide/army-escape-stage-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Etapas 1-5: Supera puestos básicos de infantería y acumula reservas de victorias iniciales"
+            },
+            {
+              "label": "2",
+              "detail": "Etapas 6-15: Despliega unidades blindadas para repeler oleadas de enemigos pesados"
+            },
+            {
+              "label": "3",
+              "detail": "Etapas 16+: Coordina soldados a distancia de alto DPS contra comandantes de élite"
+            },
+            {
+              "label": "4",
+              "detail": "Puerta de Escape: Concentra el fuego en la barricada final para despejar el sector"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Army Escape Soldier Tier List",
+          "description": "Clasificación de todos los soldados reclutables según DPS, salud, movilidad y eficacia en combate de escuadrón.",
+          "href": "/tier-list/army-escape-soldier-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Comando Élite · Pesado Operaciones Especiales — Máximo daño y control de multitudes"
+            },
+            {
+              "label": "A",
+              "detail": "Especialista Francotirador · Médico de Combate — Alcance y soporte vital de escuadrón"
+            },
+            {
+              "label": "B",
+              "detail": "Fusilero de Asalto · Granadero — Unidades de primera línea sólidas para mitad del juego"
+            },
+            {
+              "label": "C",
+              "detail": "Explorador Recluta · Infantería Básica — Unidades iniciales para las primeras etapas"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Army Escape Tips and Tricks",
+          "description": "Tácticas prácticas para sobrevivir en zonas de combate peligrosas y maximizar las victorias por hora en Army Escape.",
+          "href": "/guide/army-escape-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kiting",
+              "detail": "Atrae grandes grupos de enemigos a pasillos estrechos para maximizar el daño en área"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Prioriza la capacidad de soldados del comandante antes de comprar unidades caras"
+            },
+            {
+              "label": "Formations",
+              "detail": "Coloca tanques de alta salud al frente y francotiradores vulnerables detrás"
+            },
+            {
+              "label": "Wins",
+              "detail": "Repite etapas iniciales rápidas para acumular victorias velozmente y abrir cajas"
+            },
+            {
+              "label": "Synergy",
+              "detail": "Combina tropas de apoyo que potencian el daño con soldados de asalto de disparo rápido"
+            },
+            {
+              "label": "Cooldowns",
+              "detail": "Activa las habilidades de apoyo del escuadrón justo cuando lleguen oleadas de élite"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Army Escape Obstacles & Combat Mechanics",
+          "description": "Resumen de trampas en zonas de peligro, patrones de ataque de enemigos y estrategias para contrarrestarlos.",
+          "href": "/mechanics/army-escape-obstacles-and-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Barricades",
+              "detail": "Muros defensivos reforzados que requieren fuego concentrado y sostenido de tus unidades"
+            },
+            {
+              "label": "Turrets",
+              "detail": "Emplazamientos fijos de gran daño que exigen maniobras rápidas de flanqueo"
+            },
+            {
+              "label": "SpikeTraps",
+              "detail": "Trampas terrestres que infligen daño continuo a tropas mal posicionadas"
+            },
+            {
+              "label": "Minefields",
+              "detail": "Campos de minas explosivos que requieren navegación prudente y escolta de escuadrón"
+            },
+            {
+              "label": "Swarmers",
+              "detail": "Enemigos cuerpo a cuerpo veloces que requieren supresión inmediata en área"
+            },
+            {
+              "label": "BossGolems",
+              "detail": "Jefes gigantes de punto de control con ataques de impacto anunciados con anticipación"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Army Escape Gamepasses & Perks",
+          "description": "Análisis de pases de juego oficiales, mejoras VIP y ventajas de velocidad disponibles en Army Escape.",
+          "href": "/guide/army-escape-gamepasses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DoubleWins",
+              "detail": "Multiplicador permanente de 2x en todas las victorias y progresión de fases"
+            },
+            {
+              "label": "AutoBattle",
+              "detail": "Despliegue automático de unidades y ciclo continuo de avance de niveles sin manos"
+            },
+            {
+              "label": "ExtraSlots",
+              "detail": "Desbloquea al instante casillas adicionales de escuadrón para mayor potencia"
+            },
+            {
+              "label": "FastHatch",
+              "detail": "Animación acelerada de apertura de cajas de soldados para reclutar más rápido"
+            },
+            {
+              "label": "VipTitle",
+              "detail": "Insignia exclusiva de chat, bono diario de monedas y aura única de comandante"
+            },
+            {
+              "label": "SpeedBoost",
+              "detail": "Mayor velocidad de desplazamiento del comandante en todos los sectores de escape"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Army Escape Updates & Patch Notes",
+          "description": "Mantente informado sobre los últimos cambios de balance, nuevos soldados y etapas de evento en Army Escape.",
+          "href": "/updates/army-escape-updates",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Nuevos Sectores de Escape: Etapas militares adicionales y variantes de enemigos desafiantes"
+            },
+            {
+              "label": "2",
+              "detail": "Soldados Míticos: Unidades ultra raras reclutables con potenciadores de escuadrón personalizados"
+            },
+            {
+              "label": "3",
+              "detail": "Calidad de Vida: Inventario de soldados optimizado y apertura de cajas en lote"
+            },
+            {
+              "label": "4",
+              "detail": "Eventos de Comunidad: Fines de semana con doble de victorias por tiempo limitado"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las dudas más habituales sobre Army Escape en Roblox.",
+      "items": [
+        {
+          "question": "¿Qué es Army Escape en Roblox?",
+          "answer": "Army Escape es un simulador de batallas de escuadrones en Roblox desarrollado por 50/50 Games. Los jugadores reclutan soldados, derrotan a oleadas enemigas, superan etapas de escape y consiguen victorias para desbloquear tropas más fuertes."
+        },
+        {
+          "question": "¿Cómo equipo más soldados en Army Escape?",
+          "answer": "En Army Escape, subir de nivel a tu comandante y avanzar por las etapas desbloquea capacidad de equipamiento adicional para desplegar escuadrones más grandes."
+        },
+        {
+          "question": "¿Dónde encuentro códigos activos de Army Escape?",
+          "answer": "Todos los códigos vigentes y los pasos para canjearlos se encuentran en nuestra guía de Códigos. Canjéalos en el menú del juego cuando los desarrolladores alcancen nuevos hitos."
+        },
+        {
+          "question": "¿Cuál es la forma más rápida de conseguir victorias en Army Escape?",
+          "answer": "La manera más rápida de farmear victorias en Army Escape es superar repetidamente la etapa más alta que tu escuadrón pueda vencer velozmente sin sufrir bajas cuantiosas."
+        },
+        {
+          "question": "¿Cómo funcionan las rarezas de soldados en Army Escape?",
+          "answer": "Los soldados en Army Escape varían desde reclutas Comunes hasta comandos Míticos. Los soldados de mayor rareza poseen daño, salud y habilidades de apoyo al escuadrón significativamente superiores."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Army Escape?",
+      "description": "Reúne a tu escuadrón, supera etapas de escape desafiantes y conquista los campos de batalla en Roblox con nuestras guías actualizadas.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  }
+}

@@ -1,1 +1,482 @@
-{}
+{
+  "site": {
+    "name": "Army Escape Wiki",
+    "shortName": "Army Escape",
+    "tagline": "完全攻略ガイド、コード、兵士データ＆脱出ステージ解説",
+    "description": "Robloxの「Army Escape」究極ガイド！有効な最新コード、兵士ステータス、ステージ攻略法、勝利数（Wins）周回テクニック、初心者向け解説を網羅。",
+    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための情報サイトです。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "guide": "攻略",
+    "mechanics": "システム",
+    "progression": "進行",
+    "controls": "操作",
+    "maps": "マップ",
+    "items": "アイテム",
+    "tips": "ヒント",
+    "codes": "コード",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Army Escape Wiki",
+    "about": "Army Escape Wikiは、Robloxの「Army Escape」における進行手順、兵士育成、ステージ攻略、勝利数周回、基本ゲーム知識を網羅した独立ファン攻略ハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略ガイド",
+    "legal": "規約・免責",
+    "copyright": "2026 Army Escape Wiki. 50/50 GamesおよびRobloxとは提携していません。",
+    "description": "部隊を指揮し、過酷な脱出ステージを突破して勝利数を稼ぎ、Roblox屈指の強力な兵士をスカウトしましょう。",
+    "playGame": "RobloxでArmy Escapeをプレイ",
+    "officialDiscord": "コミュニティDiscord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "部隊プランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "陣営別ガイド",
+    "bossGuides": "ボス攻略",
+    "buildGuide": "編成ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Army Escape 攻略ガイド＆ステージ解説",
+    "overviewDescription": "ステップごとの初心者向け解説、戦闘戦術、安全な脱出ルートでArmy Escapeの全ステージを完全制覇。"
+  },
+  "mechanics": {
+    "overviewTitle": "Army Escape ゲームシステム＆戦闘メカニクス",
+    "overviewDescription": "部隊編成の仕組み、ダメージ計算式、敵Mobとの戦闘ルール、ステージ進行仕様を徹底解説。"
+  },
+  "progression": {
+    "overviewTitle": "Army Escape 進行＆司令官アップグレード",
+    "overviewDescription": "高速レベル上げ、部隊編成枠の拡張、効率的な勝利数（Wins）周回、上位兵士の解放テクニック。"
+  },
+  "controls": {
+    "overviewTitle": "Army Escape 操作方法＆キー割り当て",
+    "overviewDescription": "PC、モバイル、コンソール版プレイヤー向けのArmy Escape全操作キー配置および移動方法。"
+  },
+  "maps": {
+    "overviewTitle": "Army Escape マップ＆脱出ゾーン一覧",
+    "overviewDescription": "軍事基地セクター、脱獄施設、戦術的な脱出マップの各チェックポイントと特徴をチェック。"
+  },
+  "items": {
+    "overviewTitle": "Army Escape アイテム＆軍事装備",
+    "overviewDescription": "ヘルメット、バックパック、サポート装備など、軍隊ステータスを強化する軍事アイテム一覧。"
+  },
+  "tips": {
+    "overviewTitle": "Army Escape 役立つヒント＆必勝戦略",
+    "overviewDescription": "上級者の脱出テクニック、兵士編成シナジー、最速での勝利数獲得ノウハウを伝授。"
+  },
+  "codes": {
+    "overviewTitle": "Army Escape 最新有効コード一覧",
+    "overviewDescription": "無料の兵士、追加勝利数、限定ブーストが手に入るArmy Escapeの最新引き換えコードまとめ。"
+  },
+  "home": {
+    "meta": {
+      "title": "Army Escape Wiki — 最新コード、兵士データ、ステージ攻略＆解説",
+      "description": "Roblox「Army Escape」の完全攻略ガイド。最新有効コード、兵士データ、ステージ解説、勝利数周回、初心者向けノウハウ満載。"
+    },
+    "hero": {
+      "eyebrow": "ミリタリー戦闘脱出シミュレーター",
+      "title": "Army Escape Wiki",
+      "description": "自軍を編成し、立ちはだかる敵軍を撃破して脱出ステージを突破。勝利数を集めて強力な兵士をアンロックしましょう。",
+      "stats": [
+        "447K 総訪問者数",
+        "783 同時接続プレイヤー",
+        "95.8% 高評価率",
+        "31.4K お気に入り登録"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "兵士一覧",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式ゲームプレイショーケース"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "全ガイドを閲覧",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Army Escapeの冒険をはじめよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "基本操作、部隊への指示出し、ステージクリアの仕組みと勝利数（Wins）の基本を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベリング＆勝利数周回",
+          "description": "効率的にステージを周回して勝利数を素早く集め、司令官の最大兵士装備枠を拡張しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "最強兵士＆ガチャ開封戦略",
+          "description": "兵士のレアリティごとのステータス性能と、最強部隊を編成するための最適な開封戦略を紹介。"
+        },
+        {
+          "number": "4",
+          "title": "全コード＆無料特典",
+          "description": "ゲーム内で今すぐ使える有効なプロモコード一覧と、無料ブーストの確実な引き換え方法。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気コンテンツ",
+      "title": "注目の攻略ページ",
+      "quickLinks": [
+        "初心者ガイド",
+        "最新コード",
+        "兵士最強ランキング",
+        "ステージ攻略"
+      ],
+      "cards": [
+        {
+          "badge": "初心者向け",
+          "title": "Army Escape 初心者ガイド",
+          "description": "部隊コマンド操作、雑魚敵との戦闘、序盤の勝利数獲得手順をマスター。",
+          "href": "/guide/army-escape-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "Army Escape 最新コード",
+          "description": "無料ブースト、コイン、スカウト特典が手に入る有効なプロモコード一覧。",
+          "href": "/codes/army-escape-codes"
+        },
+        {
+          "badge": "最強ランキング",
+          "title": "兵士最強ティアリスト＆格付け",
+          "description": "DPS、HP、部隊シナジーに基づきSランクからCランクまで全兵士を徹底評価。",
+          "href": "/tier-list/army-escape-soldier-tier-list"
+        },
+        {
+          "badge": "人気",
+          "title": "ステージ攻略＆ボス戦解説",
+          "description": "各ゾーンの詳細な脱出ルートと強敵ボスを倒すための最適戦術ガイド。",
+          "href": "/guide/army-escape-stage-walkthrough"
+        },
+        {
+          "badge": "戦略",
+          "title": "最速勝利数（Wins）稼ぎガイド",
+          "description": "勝利数を効率良く大量獲得して装備スロット上限を素早く解放する周回ルート。",
+          "href": "/guide/army-escape-tips-and-tricks"
+        },
+        {
+          "badge": "NEW",
+          "title": "ゲームパス＆強化特典解説",
+          "description": "自動戦闘、勝利数2倍、追加装備枠など各種ゲームパスのコスパ徹底検証。",
+          "href": "/guide/army-escape-gamepasses"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Army Escapeとは？",
+      "paragraphs": [
+        "「Army Escape」は、50/50 Gamesが手掛けるRobloxの人気ミリタリーバトル脱出シミュレーターです。自軍の部隊を編成し、敵の防衛線を突破してステージをクリアし、勝利数（Wins）を稼ぎましょう。",
+        "ゲームを進めると司令官のレベルが上がり、より多くの兵士を同時に出撃させることが可能になります。高レアリティの兵士を開封して部隊の戦力を大幅に高め、全エリアの制覇を目指しましょう。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "50/50 Games"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "総訪問者数",
+          "value": "447K+"
+        },
+        {
+          "label": "アクティブプレイヤー",
+          "value": "780+"
+        },
+        {
+          "label": "高評価率",
+          "value": "95.8%"
+        },
+        {
+          "label": "お気に入り数",
+          "value": "31.4K+"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Army Escape Wikiを探索",
+      "description": "RobloxのArmy Escapeを徹底的に遊び尽くすための各専門カテゴリガイド。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Army Escape Codes",
+          "description": "無料のブーストや報酬を受け取れるRoblox「Army Escape」の最新有効コードと引き換え状況。",
+          "href": "/codes/army-escape-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ACTIVE",
+              "detail": "新しく配布されたコードをゲーム内で定期的に確認して確実に引き換え"
+            },
+            {
+              "label": "REWARD",
+              "detail": "無料の勝利数、兵士スカウトブースト、限定スタート特典"
+            },
+            {
+              "label": "HOW TO",
+              "detail": "Army Escape内の設定またはコード入力画面を開いて適用"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Army Escape Beginner Guide",
+          "description": "部隊の操作、序盤の戦闘、最初のステージクリアまでを網羅した初心者向けガイド。",
+          "href": "/guide/army-escape-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "初期ユニットをスポーンさせ、基本的な部隊指揮コマンドを覚える"
+            },
+            {
+              "label": "2",
+              "detail": "最初のエリアの敵Mobと交戦し、最初のステージクリアと勝利数を獲得"
+            },
+            {
+              "label": "3",
+              "detail": "手に入れた勝利数を兵士クレート開封に使い高ステータスユニットを入手"
+            },
+            {
+              "label": "4",
+              "detail": "司令官レベルを上げて兵士の追加装備スロットをアンロック"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Army Escape Stage Walkthrough",
+          "description": "敵Mobの波、チョークポイント、ボスフェーズ攻略までをカバーする全ゾーン進行ガイド。",
+          "href": "/guide/army-escape-stage-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ステージ1-5：基本歩兵チェックポイントを突破して初期勝利数を蓄積"
+            },
+            {
+              "label": "2",
+              "detail": "ステージ6-15：重装甲の敵ウェーブに対抗するアーマーユニットを配置"
+            },
+            {
+              "label": "3",
+              "detail": "ステージ16+：高DPS遠距離兵士を連携させてエリート司令官Mobを撃退"
+            },
+            {
+              "label": "4",
+              "detail": "脱出ゲート：最終防衛バリケードに火力を集中させてセクターをクリア"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Army Escape Soldier Tier List",
+          "description": "DPS、耐久力、機動性、部隊戦闘効率に基づく全スカウト可能兵士の最強ランキング。",
+          "href": "/tier-list/army-escape-soldier-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "エリートコマンド・特殊部隊ヘビー — 最高峰のダメージと集団制御能力"
+            },
+            {
+              "label": "A",
+              "detail": "スナイパースペシャリスト・衛生兵 — 必須の射程火力と部隊回復支援"
+            },
+            {
+              "label": "B",
+              "detail": "アサルトライフル兵・擲弾兵 — 安定した中盤向けの前線アタッカー"
+            },
+            {
+              "label": "C",
+              "detail": "新兵スカウト・基本歩兵 — 序盤ステージ向けの初期ユニット"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Army Escape Tips and Tricks",
+          "description": "危険な交戦ゾーンを生き延び、時間あたりの勝利数を最大化するための実用的な戦術。",
+          "href": "/guide/army-escape-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kiting",
+              "detail": "大群の敵を狭い通路へ誘導して部隊の範囲攻撃ダメージを最大化"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "高価な単体兵士を買う前に司令官の部隊装備上限枠を最優先で強化"
+            },
+            {
+              "label": "Formations",
+              "detail": "高HPのタンク役を前衛に、撃たれ弱い狙撃兵を後衛に配置する布陣"
+            },
+            {
+              "label": "Wins",
+              "detail": "短時間で周回できる序盤ステージを周回してクレート開封資金を高速収集"
+            },
+            {
+              "label": "Synergy",
+              "detail": "攻撃力バフ役のサポート兵と連射型のアサルト兵を組み合わせて火力爆増"
+            },
+            {
+              "label": "Cooldowns",
+              "detail": "エリート敵ウェーブの出現タイミングに合わせて部隊号令スキルを発動"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Army Escape Obstacles & Combat Mechanics",
+          "description": "ステージ内の危険トラップ、敵Mobの攻撃パターン、効果的な対策まとめ。",
+          "href": "/mechanics/army-escape-obstacles-and-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Barricades",
+              "detail": "部隊全員の集中砲火で破壊する必要がある強化防衛バリケード"
+            },
+            {
+              "label": "Turrets",
+              "detail": "高火力の固定砲台。素早い側面迂回と包囲攻撃で素早く無力化"
+            },
+            {
+              "label": "SpikeTraps",
+              "detail": "配置ミスした兵士に継続ダメージを与える地面のスパイク罠"
+            },
+            {
+              "label": "Minefields",
+              "detail": "安全な司令官の誘導と部隊護衛が必要となる爆発性地雷原"
+            },
+            {
+              "label": "Swarmers",
+              "detail": "瞬時の範囲攻撃による制圧が必須となる高速の近接攻撃Mob"
+            },
+            {
+              "label": "BossGolems",
+              "detail": "予兆のある叩きつけ範囲攻撃を繰り出す巨大チェックポイントボス"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Army Escape Gamepasses & Perks",
+          "description": "Army Escapeで利用できる公式ゲームパス、VIP特典、移動速度アップの徹底分析。",
+          "href": "/guide/army-escape-gamepasses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "DoubleWins",
+              "detail": "全ステージクリア時の獲得勝利数と進行が永続2倍になるパス"
+            },
+            {
+              "label": "AutoBattle",
+              "detail": "手放しで自動的に部隊を出撃させステージを進める自動戦闘機能"
+            },
+            {
+              "label": "ExtraSlots",
+              "detail": "部隊編成スロットを即座に追加して総合戦闘力を大幅底上げ"
+            },
+            {
+              "label": "FastHatch",
+              "detail": "兵士クレートの開封アニメーションを短縮しスムーズにスカウト"
+            },
+            {
+              "label": "VipTitle",
+              "detail": "専用チャットバッジ、毎日のボーナスコイン、特別な司令官オーラ"
+            },
+            {
+              "label": "SpeedBoost",
+              "detail": "全脱出セクターで司令官の移動速度が上昇する快適パス"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Army Escape Updates & Patch Notes",
+          "description": "Army Escapeの最新バランス調整、新規兵士の追加、イベントステージ情報。",
+          "href": "/updates/army-escape-updates",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "新規脱出セクター：さらなる高難度軍事ステージと新種敵Mobの追加"
+            },
+            {
+              "label": "2",
+              "detail": "神話兵士：固有の強力な部隊バフを持つ超レアなスカウト可能ユニット"
+            },
+            {
+              "label": "3",
+              "detail": "QoL改善：兵士インベントリ管理の快適化と一括クレート開封機能"
+            },
+            {
+              "label": "4",
+              "detail": "コミュニティイベント：週末限定の勝利数2倍や特別ドロップ率アップ"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問（FAQ）",
+      "description": "Roblox「Army Escape」に関するプレイヤーからの疑問に分かりやすく回答。",
+      "items": [
+        {
+          "question": "Robloxの「Army Escape」とはどんなゲームですか？",
+          "answer": "Army Escapeは、50/50 Gamesが開発したRobloxの部隊戦闘脱出シミュレーターです。兵士を集めて部隊を組み、敵軍を撃破しながら脱出ステージを進み、勝利数を獲得してより強力な兵士を解放していきます。"
+        },
+        {
+          "question": "Army Escapeでより多くの兵士を装備・出撃させるには？",
+          "answer": "司令官のレベルを上げてステージを攻略していくことで、兵士の最大装備可能スロットがアンロックされ、より大きな部隊を出撃させられるようになります。"
+        },
+        {
+          "question": "Army Escapeの有効なコードはどこで確認できますか？",
+          "answer": "最新のコードと引き換え方法は当Wikiの「コード」ページで更新しています。公式の目標達成時などにゲーム内メニューから入力して特典を入手できます。"
+        },
+        {
+          "question": "Army Escapeで勝利数（Wins）を最速で稼ぐ方法は？",
+          "answer": "味方兵士に大きな被害を出さずに素早くクリアできる、現在の戦力に見合った最も高い難易度のステージを繰り返し周回するのが最も効率的です。"
+        },
+        {
+          "question": "Army Escapeの兵士レアリティの仕組みは？",
+          "answer": "兵士には一般（Common）から神話（Mythic）までのレアリティが存在します。高レアリティの兵士ほど、攻撃力やHP、部隊全体を強化するバフ性能が圧倒的に高くなります。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Army Escapeを極める準備はできましたか？",
+      "description": "自慢の部隊を編成し、過酷な脱出ステージを突破して、最新ガイドを武器にRobloxの戦場を制覇しましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  }
+}
