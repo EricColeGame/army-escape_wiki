@@ -15,7 +15,7 @@ export interface SiteConfig {
     tiktok?: string;
   };
   locales: readonly string[];
-  defaultLocale: string;
+  defaultLocale: "en";
 }
 
 export const siteConfig: SiteConfig = {
@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Codes, Soldiers & Stage Walkthroughs",
   description: "Your ultimate guide to Army Escape on Roblox! Explore active codes, soldier stats, stage walkthroughs, wins farming, and beginner tips.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://army-escape.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://army-escape.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@army-escape.wiki",
   gameUrl: "https://www.roblox.com/games/83053913264670/1-Army-Escape",
   heroVideoId: "qJPQ_NZ1OwQ", // Roblox +1 Army Escape gameplay showcase
   social: {
